@@ -1,0 +1,1 @@
+SELECT COUNT(secondary_type) FROM pokemons;

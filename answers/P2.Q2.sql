@@ -1,0 +1,1 @@
+SELECT * FROM pokemons WHERE pokemons.id=45;
